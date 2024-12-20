@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/attacks/ACL Abuse",
+  "title": "ACL Abuse",
+  "description": "",
+  "source": "@site/notes/env/active-directory/attacks/ACL Abuse.md",
+  "sourceDirName": "env/active-directory/attacks",
+  "slug": "/env/active-directory/attacks/ACL Abuse",
+  "permalink": "/env/active-directory/attacks/ACL Abuse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/env/active-directory/attacks/ACL Abuse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Active Directory",
+    "permalink": "/env/active-directory"
+  },
+  "next": {
+    "title": "Cross-Trust Roasting",
+    "permalink": "/env/active-directory/attacks/Cross-Trust Roasting"
+  }
+}

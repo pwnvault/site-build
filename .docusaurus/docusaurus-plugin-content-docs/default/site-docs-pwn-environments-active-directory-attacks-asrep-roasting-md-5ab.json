@@ -1,0 +1,23 @@
+{
+  "id": "pwn/environments/Active Directory/attacks/ASREP Roasting",
+  "title": "ASREP Roasting",
+  "description": "Obtain the Ticket Granting Ticket (TGT) for any account that has the Do not require Kerberos pre-authentication setting enabled. Since it is encrypted with the users password it can be cracked offline",
+  "source": "@site/docs/pwn/environments/Active Directory/attacks/ASREP Roasting.md",
+  "sourceDirName": "pwn/environments/Active Directory/attacks",
+  "slug": "/pwn/environments/Active Directory/attacks/ASREP Roasting",
+  "permalink": "/pwn/environments/Active Directory/attacks/ASREP Roasting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "ACL Abuse",
+    "permalink": "/pwn/environments/Active Directory/attacks/ACL Abuse"
+  },
+  "next": {
+    "title": "Cross-Trust Roasting",
+    "permalink": "/pwn/environments/Active Directory/attacks/Cross-Trust Roasting"
+  }
+}

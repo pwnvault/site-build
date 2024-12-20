@@ -1,0 +1,21 @@
+{
+  "id": "pwn/pwnguides",
+  "title": "PwnGuides",
+  "description": "test",
+  "source": "@site/docs/pwn/pwnguides.md",
+  "sourceDirName": "pwn",
+  "slug": "/pwn/",
+  "permalink": "/pwn/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "./"
+  },
+  "sidebar": "PwnGuideSidebar",
+  "next": {
+    "title": "Environments",
+    "permalink": "/../environments"
+  }
+}

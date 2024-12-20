@@ -1,0 +1,23 @@
+{
+  "id": "ctf/CTF Guides/Hack The Box/hack the box",
+  "title": "Hack the box",
+  "description": "Hack the box",
+  "source": "@site/docs/ctf/CTF Guides/Hack The Box/hack the box.md",
+  "sourceDirName": "ctf/CTF Guides/Hack The Box",
+  "slug": "/ctf/CTF Guides/Hack The Box/",
+  "permalink": "/ctf/CTF Guides/Hack The Box/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "CTFSidebar",
+  "previous": {
+    "title": "Hack The Box",
+    "permalink": "/category/hack-the-box"
+  },
+  "next": {
+    "title": "Try Hack Me",
+    "permalink": "/category/try-hack-me"
+  }
+}

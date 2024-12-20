@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/attacks/Kerberoasting",
+  "title": "Kerberoasting",
+  "description": "",
+  "source": "@site/notes/env/active-directory/attacks/Kerberoasting.md",
+  "sourceDirName": "env/active-directory/attacks",
+  "slug": "/env/active-directory/attacks/Kerberoasting",
+  "permalink": "/env/active-directory/attacks/Kerberoasting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/env/active-directory/attacks/Kerberoasting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "ExtraSIDs",
+    "permalink": "/env/active-directory/attacks/ExtraSIDs"
+  },
+  "next": {
+    "title": "Password Spraying",
+    "permalink": "/env/active-directory/attacks/Password Spraying"
+  }
+}

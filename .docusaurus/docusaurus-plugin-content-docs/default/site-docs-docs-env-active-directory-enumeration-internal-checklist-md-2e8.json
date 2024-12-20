@@ -1,0 +1,14 @@
+{
+  "id": "docs/env/active-directory/enumeration/internal/Checklist",
+  "title": "Checklist",
+  "description": "- [ ] [[Access Control Lists]] (ACL's, DACL's)",
+  "source": "@site/docs/docs/env/active-directory/enumeration/internal/Checklist.md",
+  "sourceDirName": "docs/env/active-directory/enumeration/internal",
+  "slug": "/docs/env/active-directory/enumeration/internal/Checklist",
+  "permalink": "/docs/env/active-directory/enumeration/internal/Checklist",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

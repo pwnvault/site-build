@@ -1,0 +1,23 @@
+{
+  "id": "ctf/challenges/active/box 1",
+  "title": "Box 1",
+  "description": "Challenges Teset",
+  "source": "@site/docs/ctf/challenges/active/box 1.md",
+  "sourceDirName": "ctf/challenges/active",
+  "slug": "/ctf/challenges/active/box 1",
+  "permalink": "/ctf/challenges/active/box 1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "CTFSidebar",
+  "previous": {
+    "title": "Active",
+    "permalink": "/category/active"
+  },
+  "next": {
+    "title": "Box 2",
+    "permalink": "/ctf/challenges/active/box 2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "docs/pwn",
+  "title": "PWNGuides",
+  "description": "pwnguides test",
+  "source": "@site/docs/docs/pwn.md",
+  "sourceDirName": "docs",
+  "slug": "/docs/pwn",
+  "permalink": "/docs/pwn",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

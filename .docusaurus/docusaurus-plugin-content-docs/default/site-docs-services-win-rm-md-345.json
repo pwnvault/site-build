@@ -1,0 +1,24 @@
+{
+  "id": "services/WinRM",
+  "title": "WinRM",
+  "description": "What is it?",
+  "source": "@site/docs/services/WinRM.md",
+  "sourceDirName": "services",
+  "slug": "/services/WinRM",
+  "permalink": "/services/WinRM",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/services/WinRM.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Remote Desktop",
+    "permalink": "/services/Remote Desktop"
+  },
+  "next": {
+    "title": "PowerShell Credential object",
+    "permalink": "/misc/PowerShell Credential object"
+  }
+}

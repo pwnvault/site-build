@@ -1,0 +1,14 @@
+{
+  "id": "environments/active-directory/attacks/cross-trust-roasting",
+  "title": "Cross Trust Roasting",
+  "description": "Kerberos attacks can be performed across trusts when the relationship is inbound or bidirectional.",
+  "source": "@site/docs/environments/active-directory/attacks/cross-trust-roasting.md",
+  "sourceDirName": "environments/active-directory/attacks",
+  "slug": "/environments/active-directory/attacks/cross-trust-roasting",
+  "permalink": "/environments/active-directory/attacks/cross-trust-roasting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

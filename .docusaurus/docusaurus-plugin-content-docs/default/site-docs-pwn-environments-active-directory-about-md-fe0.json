@@ -1,0 +1,23 @@
+{
+  "id": "pwn/environments/active-directory/about",
+  "title": "About Active Directory",
+  "description": "Long postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLo ng postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postLong postL ong postLong pos",
+  "source": "@site/docs/pwn/environments/active-directory/about.md",
+  "sourceDirName": "pwn/environments/active-directory",
+  "slug": "/pwn/environments/active-directory/about",
+  "permalink": "/pwn/environments/active-directory/about",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Active Directory",
+    "permalink": "/../active-directory"
+  },
+  "next": {
+    "title": "ACL Abuse",
+    "permalink": "/pwn/environments/active-directory/attacks/ACL Abuse"
+  }
+}

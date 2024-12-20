@@ -1,0 +1,23 @@
+{
+  "id": "env/active-directory/attacks/ExtraSIDs (SIDHistory)",
+  "title": "ExtraSIDs (SIDHistory)",
+  "description": "Prerequisites",
+  "source": "@site/docs/env/active-directory/attacks/ExtraSIDs (SIDHistory).md",
+  "sourceDirName": "env/active-directory/attacks",
+  "slug": "/env/active-directory/attacks/ExtraSIDs (SIDHistory)",
+  "permalink": "/env/active-directory/attacks/ExtraSIDs (SIDHistory)",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "What is it?",
+    "permalink": "/env/active-directory/attacks/DCSync"
+  },
+  "next": {
+    "title": "Kerberoasting",
+    "permalink": "/env/active-directory/attacks/Kerberoasting"
+  }
+}

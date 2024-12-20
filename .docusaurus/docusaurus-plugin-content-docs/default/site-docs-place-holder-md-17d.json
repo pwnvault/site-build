@@ -1,0 +1,14 @@
+{
+  "id": "place-holder",
+  "title": "Place holder doc",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus ligula egestas eros volutpat hendrerit ac et nibh. Proin sagittis vel eros id mattis. Etiam in turpis tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet purus nec tortor eleifend tristique. In dignissim sollicitudin diam, nec aliquam dolor pharetra pulvinar. Quisque ac tellus lectus. Integer sit amet vulputate risus. Proin ut mauris luctus, varius nibh et, porttitor ligula. Nullam at sodales mi. Nulla ut tempor ex. Mauris vulputate elementum consequat.",
+  "source": "@site/docs/place-holder.md",
+  "sourceDirName": ".",
+  "slug": "/place-holder",
+  "permalink": "/place-holder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "docs/services/WinRM",
+  "title": "WinRM",
+  "description": "What is it?",
+  "source": "@site/docs/docs/services/WinRM.md",
+  "sourceDirName": "docs/services",
+  "slug": "/docs/services/WinRM",
+  "permalink": "/docs/services/WinRM",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

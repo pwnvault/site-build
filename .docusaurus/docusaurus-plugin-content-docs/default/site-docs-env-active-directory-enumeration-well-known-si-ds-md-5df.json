@@ -1,0 +1,23 @@
+{
+  "id": "env/active-directory/enumeration/Well Known SID's",
+  "title": "Well Known SID's",
+  "description": "Local Computer SIDs",
+  "source": "@site/docs/env/active-directory/enumeration/Well Known SID's.md",
+  "sourceDirName": "env/active-directory/enumeration",
+  "slug": "/env/active-directory/enumeration/Well Known SID's",
+  "permalink": "/env/active-directory/enumeration/Well Known SID's",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Place holder doc",
+    "permalink": "/env/active-directory/cheat-sheets/place-holder"
+  },
+  "next": {
+    "title": "Enumerating Password Policies",
+    "permalink": "/env/active-directory/enumeration/external/Enumerating Password Policies"
+  }
+}

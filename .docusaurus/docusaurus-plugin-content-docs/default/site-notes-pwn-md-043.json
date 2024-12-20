@@ -1,0 +1,20 @@
+{
+  "id": "pwn",
+  "title": "PWNGuides",
+  "description": "pwnguides test",
+  "source": "@site/notes/pwn.md",
+  "sourceDirName": ".",
+  "slug": "/pwn",
+  "permalink": "/pwn",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/pwn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "next": {
+    "title": "Environments",
+    "permalink": "/env"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tools/netdom",
+  "title": "netdom",
+  "description": "Using netdom to query domain trust",
+  "source": "@site/notes/tools/netdom.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/netdom",
+  "permalink": "/tools/netdom",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/tools/netdom.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "klist",
+    "permalink": "/tools/klist"
+  },
+  "next": {
+    "title": "Rubeus",
+    "permalink": "/tools/rubeus"
+  }
+}

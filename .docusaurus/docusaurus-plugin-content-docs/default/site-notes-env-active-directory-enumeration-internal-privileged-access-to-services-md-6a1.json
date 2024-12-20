@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/enumeration/internal/Privileged Access to Services",
+  "title": "Privileged Access to Services",
+  "description": "Using [[../../../../tools/PowerView]]",
+  "source": "@site/notes/env/active-directory/enumeration/internal/Privileged Access to Services.md",
+  "sourceDirName": "env/active-directory/enumeration/internal",
+  "slug": "/env/active-directory/enumeration/internal/Privileged Access to Services",
+  "permalink": "/env/active-directory/enumeration/internal/Privileged Access to Services",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/env/active-directory/enumeration/internal/Privileged Access to Services.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Domain Trusts",
+    "permalink": "/env/active-directory/enumeration/internal/Domain Trusts"
+  },
+  "next": {
+    "title": "Security Controls",
+    "permalink": "/env/active-directory/enumeration/internal/Security Controls"
+  }
+}

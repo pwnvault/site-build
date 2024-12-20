@@ -1,0 +1,14 @@
+{
+  "id": "docs/services/Remote Desktop",
+  "title": "Remote Desktop",
+  "description": "",
+  "source": "@site/docs/docs/services/Remote Desktop.md",
+  "sourceDirName": "docs/services",
+  "slug": "/docs/services/Remote Desktop",
+  "permalink": "/docs/services/Remote Desktop",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "docs/tools/PowerShell",
+  "title": "PowerShell",
+  "description": "",
+  "source": "@site/docs/docs/tools/PowerShell.md",
+  "sourceDirName": "docs/tools",
+  "slug": "/docs/tools/PowerShell",
+  "permalink": "/docs/tools/PowerShell",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

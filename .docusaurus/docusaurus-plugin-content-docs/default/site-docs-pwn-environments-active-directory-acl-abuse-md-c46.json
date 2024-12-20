@@ -1,0 +1,23 @@
+{
+  "id": "pwn/environments/Active Directory/ACL Abuse",
+  "title": "ACL Abuse",
+  "description": "",
+  "source": "@site/docs/pwn/environments/Active Directory/ACL Abuse.md",
+  "sourceDirName": "pwn/environments/Active Directory",
+  "slug": "/pwn/environments/Active Directory/ACL Abuse",
+  "permalink": "/pwn/environments/Active Directory/ACL Abuse",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "PWNGuides",
+    "permalink": "/pwn"
+  },
+  "next": {
+    "title": "ASREP Roasting",
+    "permalink": "/pwn/environments/Active Directory/ASREP Roasting"
+  }
+}

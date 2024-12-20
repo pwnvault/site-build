@@ -1,0 +1,14 @@
+{
+  "id": "docs/tools/Impacket/Impacket",
+  "title": "Impacket",
+  "description": "Suite of tools written in python for performing interacting with [[Active Directory | What is Active Directory?]] Environments.",
+  "source": "@site/docs/docs/tools/Impacket/Impacket.md",
+  "sourceDirName": "docs/tools/Impacket",
+  "slug": "/docs/tools/Impacket/",
+  "permalink": "/docs/tools/Impacket/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tools/Impacket/mssqlclient.py (Impacket)",
+  "title": "mssqlclient.py (Impacket)",
+  "description": "Establish a shell session to [[../../services/MSSQL]] service",
+  "source": "@site/notes/tools/Impacket/mssqlclient.py (Impacket).md",
+  "sourceDirName": "tools/Impacket",
+  "slug": "/tools/Impacket/mssqlclient.py (Impacket)",
+  "permalink": "/tools/Impacket/mssqlclient.py (Impacket)",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/tools/Impacket/mssqlclient.py (Impacket).md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "lookupsid.py",
+    "permalink": "/tools/Impacket/lookupsid.py"
+  },
+  "next": {
+    "title": "psexec.py",
+    "permalink": "/tools/Impacket/psexec.py"
+  }
+}

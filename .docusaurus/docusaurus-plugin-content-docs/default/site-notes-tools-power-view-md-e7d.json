@@ -1,0 +1,24 @@
+{
+  "id": "tools/PowerView",
+  "title": "PowerView",
+  "description": "",
+  "source": "@site/notes/tools/PowerView.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/PowerView",
+  "permalink": "/tools/PowerView",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/tools/PowerView.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "PowerShell",
+    "permalink": "/tools/PowerShell"
+  },
+  "next": {
+    "title": "SQLMap",
+    "permalink": "/tools/SQLMap"
+  }
+}

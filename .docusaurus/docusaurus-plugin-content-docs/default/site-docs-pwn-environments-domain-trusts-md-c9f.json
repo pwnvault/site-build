@@ -1,0 +1,14 @@
+{
+  "id": "pwn/environments/Domain Trusts",
+  "title": "Domain Trusts",
+  "description": "With [[netdom]]",
+  "source": "@site/docs/pwn/environments/Domain Trusts.md",
+  "sourceDirName": "pwn/environments",
+  "slug": "/pwn/environments/Domain Trusts",
+  "permalink": "/pwn/environments/Domain Trusts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

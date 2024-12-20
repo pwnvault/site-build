@@ -1,0 +1,23 @@
+{
+  "id": "ctf/challenges/box9",
+  "title": "box9",
+  "description": "asdfasdkofjaskdjlvnklxcv asdfasdkofjaskdjlvnklxcvasdfasdkofjaskdjlvnklxcvasdfasdkofjaskdjlvnklxcvasdfasdkofjaskdjlvnklxcv asdfasdkofjaskdjlvnklxcv asdfasdkofjaskdjlvnklxcv asdfasdkofjaskdjlvnklxcv asdfasdkofjaskdjlvnklxcvasdfasdkofjaskdjlvnklxcv asdfasdkofjaskdjlvnklxcv asdfasdkofjaskdjlvnklxcvasdfasdkofjaskdjlvnklxcvasdfasdkofjaskdjlvnklxcvasdfasdkofjaskdjlvnklxcvasdfasdkofjaskdjlvnklxcv",
+  "source": "@site/docs/ctf/challenges/box9.md",
+  "sourceDirName": "ctf/challenges",
+  "slug": "/ctf/challenges/box9",
+  "permalink": "/ctf/challenges/box9",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "CTFSidebar",
+  "previous": {
+    "title": "box 8",
+    "permalink": "/ctf/challenges/box8"
+  },
+  "next": {
+    "title": "CTF Guides",
+    "permalink": "/category/ctf-guides"
+  }
+}

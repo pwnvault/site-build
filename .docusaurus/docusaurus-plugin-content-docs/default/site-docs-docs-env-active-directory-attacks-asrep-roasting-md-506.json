@@ -1,0 +1,14 @@
+{
+  "id": "docs/env/active-directory/attacks/ASREP Roasting",
+  "title": "ASREP Roasting",
+  "description": "Obtain the Ticket Granting Ticket (TGT) for any account that has the Do not require Kerberos pre-authentication setting enabled. Since it is encrypted with the users password it can be cracked offline",
+  "source": "@site/docs/docs/env/active-directory/attacks/ASREP Roasting.md",
+  "sourceDirName": "docs/env/active-directory/attacks",
+  "slug": "/docs/env/active-directory/attacks/ASREP Roasting",
+  "permalink": "/docs/env/active-directory/attacks/ASREP Roasting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

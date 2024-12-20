@@ -1,0 +1,14 @@
+{
+  "id": "docs/tools/Impacket/mssqlclient.py (Impacket)",
+  "title": "mssqlclient.py (Impacket)",
+  "description": "Establish a shell session to [[../../services/MSSQL]] service",
+  "source": "@site/docs/docs/tools/Impacket/mssqlclient.py (Impacket).md",
+  "sourceDirName": "docs/tools/Impacket",
+  "slug": "/docs/tools/Impacket/mssqlclient.py (Impacket)",
+  "permalink": "/docs/tools/Impacket/mssqlclient.py (Impacket)",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

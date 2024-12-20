@@ -1,0 +1,23 @@
+{
+  "id": "ctf/challenges/box8",
+  "title": "box 8",
+  "description": "asdadsgsdfklgjsdg",
+  "source": "@site/docs/ctf/challenges/box8.md",
+  "sourceDirName": "ctf/challenges",
+  "slug": "/ctf/challenges/box8",
+  "permalink": "/ctf/challenges/box8",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "CTFSidebar",
+  "previous": {
+    "title": "box 7",
+    "permalink": "/ctf/challenges/box7"
+  },
+  "next": {
+    "title": "box9",
+    "permalink": "/ctf/challenges/box9"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tools/rubeus",
+  "title": "Rubeus",
+  "description": "Sources",
+  "source": "@site/docs/tools/rubeus.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/rubeus",
+  "permalink": "/tools/rubeus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/tools/rubeus.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "netdom",
+    "permalink": "/tools/netdom"
+  },
+  "next": {
+    "title": "Services",
+    "permalink": "/services"
+  }
+}

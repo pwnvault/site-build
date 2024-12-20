@@ -1,0 +1,24 @@
+{
+  "id": "tools/Impacket/lookupsid.py",
+  "title": "lookupsid.py",
+  "description": "What is it?",
+  "source": "@site/docs/tools/Impacket/lookupsid.py.md",
+  "sourceDirName": "tools/Impacket",
+  "slug": "/tools/Impacket/lookupsid.py",
+  "permalink": "/tools/Impacket/lookupsid.py",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/tools/Impacket/lookupsid.py.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "GetUserSPNs.py",
+    "permalink": "/tools/Impacket/GetUserSPNs.py"
+  },
+  "next": {
+    "title": "mssqlclient.py (Impacket)",
+    "permalink": "/tools/Impacket/mssqlclient.py (Impacket)"
+  }
+}

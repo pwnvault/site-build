@@ -1,0 +1,24 @@
+{
+  "id": "tools/Mimikatz",
+  "title": "Mimikatz",
+  "description": "",
+  "source": "@site/docs/tools/Mimikatz.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/Mimikatz",
+  "permalink": "/tools/Mimikatz",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/tools/Mimikatz.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Kerbrute",
+    "permalink": "/tools/Kerbrute"
+  },
+  "next": {
+    "title": "PowerShell",
+    "permalink": "/tools/PowerShell"
+  }
+}

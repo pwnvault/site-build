@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/enumeration/internal/Access Control Lists",
+  "title": "Access Control Lists",
+  "description": "",
+  "source": "@site/notes/env/active-directory/enumeration/internal/Access Control Lists.md",
+  "sourceDirName": "env/active-directory/enumeration/internal",
+  "slug": "/env/active-directory/enumeration/internal/Access Control Lists",
+  "permalink": "/env/active-directory/enumeration/internal/Access Control Lists",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/env/active-directory/enumeration/internal/Access Control Lists.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "External Enumeration",
+    "permalink": "/env/active-directory/enumeration/external/External Enumeration"
+  },
+  "next": {
+    "title": "Checklist",
+    "permalink": "/env/active-directory/enumeration/internal/Checklist"
+  }
+}

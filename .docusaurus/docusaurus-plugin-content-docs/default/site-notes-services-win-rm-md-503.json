@@ -1,0 +1,24 @@
+{
+  "id": "services/WinRM",
+  "title": "WinRM",
+  "description": "What is it?",
+  "source": "@site/notes/services/WinRM.md",
+  "sourceDirName": "services",
+  "slug": "/services/WinRM",
+  "permalink": "/services/WinRM",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/services/WinRM.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Remote Desktop",
+    "permalink": "/services/Remote Desktop"
+  },
+  "next": {
+    "title": "Pivoting",
+    "permalink": "/pivoting"
+  }
+}

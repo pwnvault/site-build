@@ -1,0 +1,19 @@
+{
+  "id": "pwn/environments/Active Directory/Cross-Trust Roasting",
+  "title": "Cross-Trust Roasting",
+  "description": "What is it?",
+  "source": "@site/docs/pwn/environments/Active Directory/Cross-Trust Roasting.md",
+  "sourceDirName": "pwn/environments/Active Directory",
+  "slug": "/pwn/environments/Active Directory/Cross-Trust Roasting",
+  "permalink": "/pwn/environments/Active Directory/Cross-Trust Roasting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Active Directttrroy",
+    "permalink": "/pwn/environments/Active Directory/"
+  }
+}

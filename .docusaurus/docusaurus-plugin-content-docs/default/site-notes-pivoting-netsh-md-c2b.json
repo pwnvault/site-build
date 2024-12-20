@@ -1,0 +1,24 @@
+{
+  "id": "pivoting/netsh",
+  "title": "netsh",
+  "description": "Forward data recieved on port 8080 to port 3389 on remote host.",
+  "source": "@site/notes/pivoting/netsh.md",
+  "sourceDirName": "pivoting",
+  "slug": "/pivoting/netsh",
+  "permalink": "/pivoting/netsh",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/pivoting/netsh.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Pivoting",
+    "permalink": "/pivoting"
+  },
+  "next": {
+    "title": "Misc",
+    "permalink": "/misc"
+  }
+}

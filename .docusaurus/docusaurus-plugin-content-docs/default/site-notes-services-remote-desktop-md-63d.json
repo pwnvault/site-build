@@ -1,0 +1,24 @@
+{
+  "id": "services/Remote Desktop",
+  "title": "Remote Desktop",
+  "description": "",
+  "source": "@site/notes/services/Remote Desktop.md",
+  "sourceDirName": "services",
+  "slug": "/services/Remote Desktop",
+  "permalink": "/services/Remote Desktop",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/services/Remote Desktop.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "MSSQL",
+    "permalink": "/services/MSSQL"
+  },
+  "next": {
+    "title": "WinRM",
+    "permalink": "/services/WinRM"
+  }
+}

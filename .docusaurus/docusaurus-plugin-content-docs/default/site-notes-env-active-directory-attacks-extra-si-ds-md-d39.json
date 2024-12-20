@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/attacks/ExtraSIDs",
+  "title": "ExtraSIDs",
+  "description": "Prerequisites",
+  "source": "@site/notes/env/active-directory/attacks/ExtraSIDs.md",
+  "sourceDirName": "env/active-directory/attacks",
+  "slug": "/env/active-directory/attacks/ExtraSIDs",
+  "permalink": "/env/active-directory/attacks/ExtraSIDs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/env/active-directory/attacks/ExtraSIDs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "What is it?",
+    "permalink": "/env/active-directory/attacks/DCSync"
+  },
+  "next": {
+    "title": "Kerberoasting",
+    "permalink": "/env/active-directory/attacks/Kerberoasting"
+  }
+}

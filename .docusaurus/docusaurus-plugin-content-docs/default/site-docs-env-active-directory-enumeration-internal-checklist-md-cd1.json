@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/enumeration/internal/Checklist",
+  "title": "Checklist",
+  "description": "- [ ] [[Access Control Lists]] (ACL's, DACL's)",
+  "source": "@site/docs/env/active-directory/enumeration/internal/Checklist.md",
+  "sourceDirName": "env/active-directory/enumeration/internal",
+  "slug": "/env/active-directory/enumeration/internal/Checklist",
+  "permalink": "/env/active-directory/enumeration/internal/Checklist",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/env/active-directory/enumeration/internal/Checklist.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Access Control Lists",
+    "permalink": "/env/active-directory/enumeration/internal/Access Control Lists"
+  },
+  "next": {
+    "title": "Domain Trusts",
+    "permalink": "/env/active-directory/enumeration/internal/Domain Trusts"
+  }
+}

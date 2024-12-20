@@ -1,0 +1,14 @@
+{
+  "id": "docs/env/active-directory/attacks/Kerberoasting",
+  "title": "Kerberoasting",
+  "description": "",
+  "source": "@site/docs/docs/env/active-directory/attacks/Kerberoasting.md",
+  "sourceDirName": "docs/env/active-directory/attacks",
+  "slug": "/docs/env/active-directory/attacks/Kerberoasting",
+  "permalink": "/docs/env/active-directory/attacks/Kerberoasting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

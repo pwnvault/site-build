@@ -1,0 +1,14 @@
+{
+  "id": "docs/services/MSSQL",
+  "title": "MSSQL",
+  "description": "Microsft's Relational Database",
+  "source": "@site/docs/docs/services/MSSQL.md",
+  "sourceDirName": "docs/services",
+  "slug": "/docs/services/MSSQL",
+  "permalink": "/docs/services/MSSQL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

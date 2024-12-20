@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/enumeration/internal/Domain Trusts",
+  "title": "Domain Trusts",
+  "description": "With [[../../../../tools/netdom]]",
+  "source": "@site/notes/env/active-directory/enumeration/internal/Domain Trusts.md",
+  "sourceDirName": "env/active-directory/enumeration/internal",
+  "slug": "/env/active-directory/enumeration/internal/Domain Trusts",
+  "permalink": "/env/active-directory/enumeration/internal/Domain Trusts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/env/active-directory/enumeration/internal/Domain Trusts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Checklist",
+    "permalink": "/env/active-directory/enumeration/internal/Checklist"
+  },
+  "next": {
+    "title": "Privileged Access to Services",
+    "permalink": "/env/active-directory/enumeration/internal/Privileged Access to Services"
+  }
+}

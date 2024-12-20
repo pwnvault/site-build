@@ -1,0 +1,24 @@
+{
+  "id": "tools/SQLMap",
+  "title": "SQLMap",
+  "description": "",
+  "source": "@site/notes/tools/SQLMap.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/SQLMap",
+  "permalink": "/tools/SQLMap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/tools/SQLMap.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "PowerView",
+    "permalink": "/tools/PowerView"
+  },
+  "next": {
+    "title": "klist",
+    "permalink": "/tools/klist"
+  }
+}

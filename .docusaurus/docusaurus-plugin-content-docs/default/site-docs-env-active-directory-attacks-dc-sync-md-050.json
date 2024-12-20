@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/attacks/DCSync",
+  "title": "What is it?",
+  "description": "DCSync is a technique that involves spoofing a Domain Controller(DC), and then requesting a real DC replicate it's password database to our fake DC. This allows us to capture the ntlm hashes of any user, or all of them. Sometimes clear-text passwords can be found this way",
+  "source": "@site/docs/env/active-directory/attacks/DCSync.md",
+  "sourceDirName": "env/active-directory/attacks",
+  "slug": "/env/active-directory/attacks/DCSync",
+  "permalink": "/env/active-directory/attacks/DCSync",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/env/active-directory/attacks/DCSync.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Cross-Trust Roasting",
+    "permalink": "/env/active-directory/attacks/Cross-Trust Roasting"
+  },
+  "next": {
+    "title": "ExtraSIDs",
+    "permalink": "/env/active-directory/attacks/ExtraSIDs"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pwn/environments/active-directory/attacks/Cross-Trust Roasting",
+  "title": "Cross-Trust Roasting",
+  "description": "What is it?",
+  "source": "@site/docs/pwn/environments/active-directory/attacks/Cross-Trust Roasting.md",
+  "sourceDirName": "pwn/environments/active-directory/attacks",
+  "slug": "/pwn/environments/active-directory/attacks/Cross-Trust Roasting",
+  "permalink": "/pwn/environments/active-directory/attacks/Cross-Trust Roasting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "ACL Abuse",
+    "permalink": "/pwn/environments/active-directory/attacks/ACL Abuse"
+  },
+  "next": {
+    "title": "ASREP Roasting",
+    "permalink": "/pwn/environments/active-directory/attacks/asrep-roasting"
+  }
+}

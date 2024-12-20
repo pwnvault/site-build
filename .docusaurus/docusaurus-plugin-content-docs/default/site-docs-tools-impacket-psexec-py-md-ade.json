@@ -1,0 +1,24 @@
+{
+  "id": "tools/Impacket/psexec.py",
+  "title": "psexec.py",
+  "description": "What is it?",
+  "source": "@site/docs/tools/Impacket/psexec.py.md",
+  "sourceDirName": "tools/Impacket",
+  "slug": "/tools/Impacket/psexec.py",
+  "permalink": "/tools/Impacket/psexec.py",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/tools/Impacket/psexec.py.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "mssqlclient.py (Impacket)",
+    "permalink": "/tools/Impacket/mssqlclient.py (Impacket)"
+  },
+  "next": {
+    "title": "raiseChild.py",
+    "permalink": "/tools/Impacket/raiseChild.py"
+  }
+}

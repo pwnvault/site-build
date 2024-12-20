@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/attacks/asrep-roasting",
+  "title": "ASREP Roasting",
+  "description": "Overview",
+  "source": "@site/docs/env/active-directory/attacks/asrep-roasting.md",
+  "sourceDirName": "env/active-directory/attacks",
+  "slug": "/env/active-directory/attacks/asrep-roasting",
+  "permalink": "/env/active-directory/attacks/asrep-roasting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/env/active-directory/attacks/asrep-roasting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Reversible Password encryption",
+    "permalink": "/env/active-directory/attacks/Reversible Password encryption"
+  },
+  "next": {
+    "title": "Attacking AD Command Cheat sheet",
+    "permalink": "/env/active-directory/cheat-sheets/Attacking AD Command Cheat sheet"
+  }
+}

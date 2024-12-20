@@ -1,0 +1,23 @@
+{
+  "id": "tools/Rubeus",
+  "title": "Rubeus",
+  "description": "[[../../env/active-directory/attacks/ASREP Roasting]]",
+  "source": "@site/docs/tools/Rubeus.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/Rubeus",
+  "permalink": "/tools/Rubeus",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "PowerView",
+    "permalink": "/tools/PowerView"
+  },
+  "next": {
+    "title": "SQLMap",
+    "permalink": "/tools/SQLMap"
+  }
+}

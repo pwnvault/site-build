@@ -1,0 +1,14 @@
+{
+  "id": "docs/tools/Impacket/GetUserSPNs.py",
+  "title": "GetUserSPNs.py",
+  "description": "[[../../../env/active-directory/attacks/Kerberoasting]] across trusts (INLANEFREIGHT is current domain)",
+  "source": "@site/docs/docs/tools/Impacket/GetUserSPNs.py.md",
+  "sourceDirName": "docs/tools/Impacket",
+  "slug": "/docs/tools/Impacket/GetUserSPNs.py",
+  "permalink": "/docs/tools/Impacket/GetUserSPNs.py",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

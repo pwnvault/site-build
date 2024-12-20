@@ -1,0 +1,14 @@
+{
+  "id": "docs/tools/Impacket/psexec.py",
+  "title": "psexec.py",
+  "description": "What is it?",
+  "source": "@site/docs/docs/tools/Impacket/psexec.py.md",
+  "sourceDirName": "docs/tools/Impacket",
+  "slug": "/docs/tools/Impacket/psexec.py",
+  "permalink": "/docs/tools/Impacket/psexec.py",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

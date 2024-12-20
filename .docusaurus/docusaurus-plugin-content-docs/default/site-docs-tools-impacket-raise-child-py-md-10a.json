@@ -1,0 +1,24 @@
+{
+  "id": "tools/Impacket/raiseChild.py",
+  "title": "raiseChild.py",
+  "description": "What is it?",
+  "source": "@site/docs/tools/Impacket/raiseChild.py.md",
+  "sourceDirName": "tools/Impacket",
+  "slug": "/tools/Impacket/raiseChild.py",
+  "permalink": "/tools/Impacket/raiseChild.py",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/tools/Impacket/raiseChild.py.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "psexec.py",
+    "permalink": "/tools/Impacket/psexec.py"
+  },
+  "next": {
+    "title": "secretsdump.py",
+    "permalink": "/tools/Impacket/secretsdump.py"
+  }
+}

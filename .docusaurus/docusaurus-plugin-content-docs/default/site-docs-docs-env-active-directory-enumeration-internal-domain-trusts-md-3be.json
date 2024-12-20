@@ -1,0 +1,14 @@
+{
+  "id": "docs/env/active-directory/enumeration/internal/Domain Trusts",
+  "title": "Domain Trusts",
+  "description": "With [[../../../../tools/netdom]]",
+  "source": "@site/docs/docs/env/active-directory/enumeration/internal/Domain Trusts.md",
+  "sourceDirName": "docs/env/active-directory/enumeration/internal",
+  "slug": "/docs/env/active-directory/enumeration/internal/Domain Trusts",
+  "permalink": "/docs/env/active-directory/enumeration/internal/Domain Trusts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

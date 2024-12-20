@@ -1,0 +1,24 @@
+{
+  "id": "tools/Kerbrute",
+  "title": "Kerbrute",
+  "description": "",
+  "source": "@site/docs/tools/Kerbrute.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/Kerbrute",
+  "permalink": "/tools/Kerbrute",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/tools/Kerbrute.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "ticketer.py",
+    "permalink": "/tools/Impacket/ticketer.py"
+  },
+  "next": {
+    "title": "Mimikatz",
+    "permalink": "/tools/Mimikatz"
+  }
+}

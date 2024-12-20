@@ -1,0 +1,14 @@
+{
+  "id": "docs/lateral-movement-pivoting/Netsh (Windows)",
+  "title": "Netsh (Windows)",
+  "description": "Forward data recieved on port 8080 to port 3389 on remote host.",
+  "source": "@site/docs/docs/lateral-movement-pivoting/Netsh (Windows).md",
+  "sourceDirName": "docs/lateral-movement-pivoting",
+  "slug": "/docs/lateral-movement-pivoting/Netsh (Windows)",
+  "permalink": "/docs/lateral-movement-pivoting/Netsh (Windows)",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/attacks/Cross-Trust Roasting",
+  "title": "Cross-Trust Roasting",
+  "description": "What is it?",
+  "source": "@site/notes/env/active-directory/attacks/Cross-Trust Roasting.md",
+  "sourceDirName": "env/active-directory/attacks",
+  "slug": "/env/active-directory/attacks/Cross-Trust Roasting",
+  "permalink": "/env/active-directory/attacks/Cross-Trust Roasting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/env/active-directory/attacks/Cross-Trust Roasting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "ACL Abuse",
+    "permalink": "/env/active-directory/attacks/ACL Abuse"
+  },
+  "next": {
+    "title": "What is it?",
+    "permalink": "/env/active-directory/attacks/DCSync"
+  }
+}

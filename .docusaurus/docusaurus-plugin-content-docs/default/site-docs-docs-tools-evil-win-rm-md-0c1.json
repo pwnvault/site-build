@@ -1,0 +1,14 @@
+{
+  "id": "docs/tools/Evil-WinRM",
+  "title": "Evil-WinRM",
+  "description": "Github",
+  "source": "@site/docs/docs/tools/Evil-WinRM.md",
+  "sourceDirName": "docs/tools",
+  "slug": "/docs/tools/Evil-WinRM",
+  "permalink": "/docs/tools/Evil-WinRM",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

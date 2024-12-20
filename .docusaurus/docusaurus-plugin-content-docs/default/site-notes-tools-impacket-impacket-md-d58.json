@@ -1,0 +1,24 @@
+{
+  "id": "tools/Impacket/Impacket",
+  "title": "Impacket",
+  "description": "Suite of tools written in python for performing interacting with [[Active Directory | What is Active Directory?]] Environments.",
+  "source": "@site/notes/tools/Impacket/Impacket.md",
+  "sourceDirName": "tools/Impacket",
+  "slug": "/tools/Impacket/",
+  "permalink": "/tools/Impacket/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/tools/Impacket/Impacket.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Evil-WinRM",
+    "permalink": "/tools/Evil-WinRM"
+  },
+  "next": {
+    "title": "GetUserSPNs.py",
+    "permalink": "/tools/Impacket/GetUserSPNs.py"
+  }
+}

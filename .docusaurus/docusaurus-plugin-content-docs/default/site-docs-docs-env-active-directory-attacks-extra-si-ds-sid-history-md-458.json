@@ -1,0 +1,14 @@
+{
+  "id": "docs/env/active-directory/attacks/ExtraSIDs (SIDHistory)",
+  "title": "ExtraSIDs (SIDHistory)",
+  "description": "Prerequisites",
+  "source": "@site/docs/docs/env/active-directory/attacks/ExtraSIDs (SIDHistory).md",
+  "sourceDirName": "docs/env/active-directory/attacks",
+  "slug": "/docs/env/active-directory/attacks/ExtraSIDs (SIDHistory)",
+  "permalink": "/docs/env/active-directory/attacks/ExtraSIDs (SIDHistory)",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

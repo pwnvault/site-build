@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/enumeration/external/External Enumeration",
+  "title": "External Enumeration",
+  "description": "",
+  "source": "@site/notes/env/active-directory/enumeration/external/External Enumeration.md",
+  "sourceDirName": "env/active-directory/enumeration/external",
+  "slug": "/env/active-directory/enumeration/external/External Enumeration",
+  "permalink": "/env/active-directory/enumeration/external/External Enumeration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/env/active-directory/enumeration/external/External Enumeration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Enumerating Password Policies",
+    "permalink": "/env/active-directory/enumeration/external/Enumerating Password Policies"
+  },
+  "next": {
+    "title": "Access Control Lists",
+    "permalink": "/env/active-directory/enumeration/internal/Access Control Lists"
+  }
+}

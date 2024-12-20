@@ -1,0 +1,14 @@
+{
+  "id": "docs/tools/Rubeus",
+  "title": "Rubeus",
+  "description": "[[../../env/active-directory/attacks/ASREP Roasting]]",
+  "source": "@site/docs/docs/tools/Rubeus.md",
+  "sourceDirName": "docs/tools",
+  "slug": "/docs/tools/Rubeus",
+  "permalink": "/docs/tools/Rubeus",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

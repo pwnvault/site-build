@@ -1,0 +1,14 @@
+{
+  "id": "environments/active-directory/attacks/ACL Abuse",
+  "title": "ACL Abuse",
+  "description": "",
+  "source": "@site/docs/environments/active-directory/attacks/ACL Abuse.md",
+  "sourceDirName": "environments/active-directory/attacks",
+  "slug": "/environments/active-directory/attacks/ACL Abuse",
+  "permalink": "/environments/active-directory/attacks/ACL Abuse",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ctf/CTF Guides/Try Hack Me/Tryy Hack Me",
+  "title": "Try Hack Me",
+  "description": "Try hack me",
+  "source": "@site/docs/ctf/CTF Guides/Try Hack Me/Tryy Hack Me.md",
+  "sourceDirName": "ctf/CTF Guides/Try Hack Me",
+  "slug": "/ctf/CTF Guides/Try Hack Me/Tryy Hack Me",
+  "permalink": "/ctf/CTF Guides/Try Hack Me/Tryy Hack Me",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "CTFSidebar",
+  "previous": {
+    "title": "Try Hack Me",
+    "permalink": "/category/try-hack-me"
+  }
+}

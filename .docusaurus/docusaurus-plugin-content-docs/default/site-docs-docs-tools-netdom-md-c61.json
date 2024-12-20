@@ -1,0 +1,14 @@
+{
+  "id": "docs/tools/netdom",
+  "title": "netdom",
+  "description": "Using netdom to query domain trust",
+  "source": "@site/docs/docs/tools/netdom.md",
+  "sourceDirName": "docs/tools",
+  "slug": "/docs/tools/netdom",
+  "permalink": "/docs/tools/netdom",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

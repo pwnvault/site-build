@@ -1,0 +1,23 @@
+{
+  "id": "lateral-movement/place-holder",
+  "title": "Place holder doc",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In luctus ligula egestas eros volutpat hendrerit ac et nibh. Proin sagittis vel eros id mattis. Etiam in turpis tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet purus nec tortor eleifend tristique. In dignissim sollicitudin diam, nec aliquam dolor pharetra pulvinar. Quisque ac tellus lectus. Integer sit amet vulputate risus. Proin ut mauris luctus, varius nibh et, porttitor ligula. Nullam at sodales mi. Nulla ut tempor ex. Mauris vulputate elementum consequat.",
+  "source": "@site/docs/lateral-movement/place-holder.md",
+  "sourceDirName": "lateral-movement",
+  "slug": "/lateral-movement/place-holder",
+  "permalink": "/lateral-movement/place-holder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Place holder doc",
+    "permalink": "/tunneling/place-holder"
+  },
+  "next": {
+    "title": "netsh",
+    "permalink": "/pivoting/netsh"
+  }
+}

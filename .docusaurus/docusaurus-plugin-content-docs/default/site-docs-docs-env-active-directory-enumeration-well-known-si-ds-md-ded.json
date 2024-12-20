@@ -1,0 +1,14 @@
+{
+  "id": "docs/env/active-directory/enumeration/Well Known SID's",
+  "title": "Well Known SID's",
+  "description": "Local Computer SIDs",
+  "source": "@site/docs/docs/env/active-directory/enumeration/Well Known SID's.md",
+  "sourceDirName": "docs/env/active-directory/enumeration",
+  "slug": "/docs/env/active-directory/enumeration/Well Known SID's",
+  "permalink": "/docs/env/active-directory/enumeration/Well Known SID's",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

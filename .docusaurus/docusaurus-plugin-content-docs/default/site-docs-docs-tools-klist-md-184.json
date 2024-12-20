@@ -1,0 +1,14 @@
+{
+  "id": "docs/tools/klist",
+  "title": "klist",
+  "description": "list kerberos credentials",
+  "source": "@site/docs/docs/tools/klist.md",
+  "sourceDirName": "docs/tools",
+  "slug": "/docs/tools/klist",
+  "permalink": "/docs/tools/klist",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "templates/ToolName",
+  "title": "{{title}}",
+  "description": "Overview",
+  "source": "@site/docs/templates/ToolName.md",
+  "sourceDirName": "templates",
+  "slug": "/templates/ToolName",
+  "permalink": "/templates/ToolName",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/cheat-sheets/Attacking AD Command Cheat sheet",
+  "title": "Attacking AD Command Cheat sheet",
+  "description": "External Enumeration",
+  "source": "@site/docs/env/active-directory/cheat-sheets/Attacking AD Command Cheat sheet.md",
+  "sourceDirName": "env/active-directory/cheat-sheets",
+  "slug": "/env/active-directory/cheat-sheets/Attacking AD Command Cheat sheet",
+  "permalink": "/env/active-directory/cheat-sheets/Attacking AD Command Cheat sheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/env/active-directory/cheat-sheets/Attacking AD Command Cheat sheet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "ASREP Roasting",
+    "permalink": "/env/active-directory/attacks/asrep-roasting"
+  },
+  "next": {
+    "title": "Enumerating Password Policies",
+    "permalink": "/env/active-directory/enumeration/external/Enumerating Password Policies"
+  }
+}

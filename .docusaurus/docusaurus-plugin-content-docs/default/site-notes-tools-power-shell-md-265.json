@@ -1,0 +1,24 @@
+{
+  "id": "tools/PowerShell",
+  "title": "PowerShell",
+  "description": "",
+  "source": "@site/notes/tools/PowerShell.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/PowerShell",
+  "permalink": "/tools/PowerShell",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/tools/PowerShell.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Mimikatz",
+    "permalink": "/tools/Mimikatz"
+  },
+  "next": {
+    "title": "PowerView",
+    "permalink": "/tools/PowerView"
+  }
+}

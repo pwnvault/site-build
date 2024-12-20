@@ -1,0 +1,24 @@
+{
+  "id": "tools/Evil-WinRM",
+  "title": "Evil-WinRM",
+  "description": "Github",
+  "source": "@site/docs/tools/Evil-WinRM.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/Evil-WinRM",
+  "permalink": "/tools/Evil-WinRM",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/tools/Evil-WinRM.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "BloodHound",
+    "permalink": "/tools/BloodHound"
+  },
+  "next": {
+    "title": "Impacket",
+    "permalink": "/tools/Impacket/"
+  }
+}

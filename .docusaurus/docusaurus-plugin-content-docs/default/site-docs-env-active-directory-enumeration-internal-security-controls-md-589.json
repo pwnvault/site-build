@@ -1,0 +1,24 @@
+{
+  "id": "env/active-directory/enumeration/internal/Security Controls",
+  "title": "Security Controls",
+  "description": "",
+  "source": "@site/docs/env/active-directory/enumeration/internal/Security Controls.md",
+  "sourceDirName": "env/active-directory/enumeration/internal",
+  "slug": "/env/active-directory/enumeration/internal/Security Controls",
+  "permalink": "/env/active-directory/enumeration/internal/Security Controls",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/env/active-directory/enumeration/internal/Security Controls.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Privileged Access to Services",
+    "permalink": "/env/active-directory/enumeration/internal/Privileged Access to Services"
+  },
+  "next": {
+    "title": "Tools",
+    "permalink": "/tools"
+  }
+}

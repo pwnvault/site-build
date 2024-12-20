@@ -1,0 +1,14 @@
+{
+  "id": "docs/env/active-directory/enumeration/internal/Privileged Access to Services",
+  "title": "Privileged Access to Services",
+  "description": "Using [[../../../../tools/PowerView]]",
+  "source": "@site/docs/docs/env/active-directory/enumeration/internal/Privileged Access to Services.md",
+  "sourceDirName": "docs/env/active-directory/enumeration/internal",
+  "slug": "/docs/env/active-directory/enumeration/internal/Privileged Access to Services",
+  "permalink": "/docs/env/active-directory/enumeration/internal/Privileged Access to Services",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

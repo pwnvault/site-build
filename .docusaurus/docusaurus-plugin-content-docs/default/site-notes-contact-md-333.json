@@ -1,0 +1,15 @@
+{
+  "id": "contact",
+  "title": "Contact Us",
+  "description": "Site admins",
+  "source": "@site/notes/contact.md",
+  "sourceDirName": ".",
+  "slug": "/contact",
+  "permalink": "/contact",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/contact.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

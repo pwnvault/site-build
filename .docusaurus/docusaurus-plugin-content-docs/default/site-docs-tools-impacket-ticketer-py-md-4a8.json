@@ -1,0 +1,24 @@
+{
+  "id": "tools/Impacket/ticketer.py",
+  "title": "ticketer.py",
+  "description": "What is it?",
+  "source": "@site/docs/tools/Impacket/ticketer.py.md",
+  "sourceDirName": "tools/Impacket",
+  "slug": "/tools/Impacket/ticketer.py",
+  "permalink": "/tools/Impacket/ticketer.py",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/tools/Impacket/ticketer.py.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "secretsdump.py",
+    "permalink": "/tools/Impacket/secretsdump.py"
+  },
+  "next": {
+    "title": "Kerbrute",
+    "permalink": "/tools/Kerbrute"
+  }
+}

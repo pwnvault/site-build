@@ -1,0 +1,24 @@
+{
+  "id": "tools/klist",
+  "title": "klist",
+  "description": "list kerberos credentials",
+  "source": "@site/docs/tools/klist.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/klist",
+  "permalink": "/tools/klist",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../docs/tools/klist.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "SQLMap",
+    "permalink": "/tools/SQLMap"
+  },
+  "next": {
+    "title": "netdom",
+    "permalink": "/tools/netdom"
+  }
+}

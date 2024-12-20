@@ -1,0 +1,14 @@
+{
+  "id": "environments/Domain Trusts",
+  "title": "Domain Trusts",
+  "description": "With [[netdom]]",
+  "source": "@site/docs/environments/Domain Trusts.md",
+  "sourceDirName": "environments",
+  "slug": "/environments/Domain Trusts",
+  "permalink": "/environments/Domain Trusts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pwn/ppwnguide",
+  "title": "PWNGuides",
+  "description": "test",
+  "source": "@site/docs/pwn/ppwnguide.md",
+  "sourceDirName": "pwn",
+  "slug": "/pwn/pwn",
+  "permalink": "/pwn/pwn",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "PWNGuides",
+    "sidebar_position": 1,
+    "slug": "pwn"
+  },
+  "sidebar": "PwnGuideSidebar",
+  "next": {
+    "title": "Active Directory",
+    "permalink": "/category/active-directory"
+  }
+}

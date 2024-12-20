@@ -1,0 +1,24 @@
+{
+  "id": "services/MSSQL",
+  "title": "MSSQL",
+  "description": "Microsft's Relational Database",
+  "source": "@site/notes/services/MSSQL.md",
+  "sourceDirName": "services",
+  "slug": "/services/MSSQL",
+  "permalink": "/services/MSSQL",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pwnvault/notes/../notes/services/MSSQL.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Services",
+    "permalink": "/services"
+  },
+  "next": {
+    "title": "Remote Desktop",
+    "permalink": "/services/Remote Desktop"
+  }
+}
