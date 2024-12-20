@@ -1,0 +1,71 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #27a560;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #CC342D;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-heading-color: #e6e1e1;
+  --ifm-background-color: #21252B;
+  --ifm-color-emphasis-300: #CC342D;
+  --ifm-font-color-base-inverse: black;
+}
+
+@font-face {
+  font-family: "Metal Gear Item";
+  src: url("/static/fonts/MGS2MENU.TTF");
+  
+}
+@font-face {
+  font-family: "Abel";
+  src: url("/static/fonts/Abel-Regular.ttf");
+}
+
+* {
+  font-family: 'Abel';
+  font-size: 18px;  
+}
+
+.navbar__title {
+  font-family: "Metal Gear Item";
+}
+
+.footer {
+  box-shadow: gray 0px 0px 0px 1px;
+  background-color: var(--ifm-navbar-background-color);
+}
+
+.footer__link-item,
+.footer__copyright {
+  color: gray;
+
+}
+article > header {
+  box-shadow: gray 0px -1px 0px 0px;
+}
+
+.sidebar-custom-links>a {
+  color: #e6e1e1;
+}
