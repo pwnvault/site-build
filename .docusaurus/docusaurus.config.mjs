@@ -295,7 +295,7 @@ export default {
     "metadata": []
   },
   "plugins": [
-    "/home/code/repos/pwnvault/node_modules/docusaurus-lunr-search/src/index.js"
+    "/home/code/repos/site-build/node_modules/docusaurus-lunr-search/src/index.js"
   ],
   "baseUrlIssueBanner": true,
   "future": {
