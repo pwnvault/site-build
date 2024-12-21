@@ -11,5 +11,14 @@
   "editUrl": "https://github.com/pwnvault/notes/../docs/pivoting/netsh.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "previous": {
+    "title": "Pivoting",
+    "permalink": "/pivoting"
+  },
+  "next": {
+    "title": "Misc",
+    "permalink": "/misc"
+  }
 }

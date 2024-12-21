@@ -63,26 +63,26 @@
     },
     "config": "config---empty-5-e-9-d16"
   },
-  "/-f69": {
+  "/-2a9": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-c1d": {
+  "/-77c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-17b": {
+  "/-072": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/contact-459": {
+  "/contact-566": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---contact-333-297"
+    "content": "content---contact-32-d-595"
   },
-  "/contribute-328": {
+  "/contribute-909": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---contributeac-2-5e9"
+    "content": "content---contribute-4-ba-25a"
   },
   "/env-740": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -92,184 +92,184 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---env-active-directory-104-6b9"
   },
-  "/env/active-directory/attacks/ACL Abuse-799": {
+  "/env/active-directory/attacks/ACL Abuse-a6a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-attacks-acl-abuseaef-136"
+    "content": "content---env-active-directory-attacks-acl-abusea-16-dfb"
   },
-  "/env/active-directory/attacks/asrep-roasting-df4": {
+  "/env/active-directory/attacks/asrep-roasting-93f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-attacks-asrep-roastingfbf-cd1"
+    "content": "content---env-active-directory-attacks-asrep-roasting-46-c-f56"
   },
-  "/env/active-directory/attacks/Cross-Trust Roasting-b0c": {
+  "/env/active-directory/attacks/Cross-Trust Roasting-93d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-attacks-cross-trust-roasting-2-a-7-36c"
+    "content": "content---env-active-directory-attacks-cross-trust-roasting-245-8e8"
   },
-  "/env/active-directory/attacks/DCSync-b1c": {
+  "/env/active-directory/attacks/DCSync-3f6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-attacks-dc-syncaa-8-0e8"
+    "content": "content---env-active-directory-attacks-dc-sync-050-2a8"
   },
-  "/env/active-directory/attacks/ExtraSIDs-5f8": {
+  "/env/active-directory/attacks/ExtraSIDs-eeb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-attacks-extra-si-dsd-39-e5e"
+    "content": "content---env-active-directory-attacks-extra-si-ds-352-ce4"
   },
-  "/env/active-directory/attacks/Kerberoasting-8bf": {
+  "/env/active-directory/attacks/Kerberoasting-2e4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-attacks-kerberoasting-20-b-0dc"
+    "content": "content---env-active-directory-attacks-kerberoastingbb-5-815"
   },
-  "/env/active-directory/attacks/Password Spraying-664": {
+  "/env/active-directory/attacks/Password Spraying-04c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-attacks-password-spraying-8-e-9-0a0"
+    "content": "content---env-active-directory-attacks-password-spraying-490-15d"
   },
-  "/env/active-directory/attacks/Reversible Password encryption-b09": {
+  "/env/active-directory/attacks/Reversible Password encryption-8b7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-attacks-reversible-password-encryption-91-c-c49"
+    "content": "content---env-active-directory-attacks-reversible-password-encryption-8-da-8ad"
   },
-  "/env/active-directory/cheat-sheets/Attacking AD Command Cheat sheet-636": {
+  "/env/active-directory/cheat-sheets/Attacking AD Command Cheat sheet-933": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-cheat-sheets-attacking-ad-command-cheat-sheetf-68-967"
+    "content": "content---env-active-directory-cheat-sheets-attacking-ad-command-cheat-sheete-68-953"
   },
-  "/env/active-directory/enumeration/external/Enumerating Password Policies-735": {
+  "/env/active-directory/enumeration/external/Enumerating Password Policies-6ec": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-enumeration-external-enumerating-password-policiesd-3-a-9a1"
+    "content": "content---env-active-directory-enumeration-external-enumerating-password-policiesd-08-e0b"
   },
-  "/env/active-directory/enumeration/external/External Enumeration-fb7": {
+  "/env/active-directory/enumeration/external/External Enumeration-d5a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-enumeration-external-external-enumeration-01-a-b33"
+    "content": "content---env-active-directory-enumeration-external-external-enumeration-709-78f"
   },
-  "/env/active-directory/enumeration/internal/Access Control Lists-a96": {
+  "/env/active-directory/enumeration/internal/Access Control Lists-344": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-enumeration-internal-access-control-listsa-01-200"
+    "content": "content---env-active-directory-enumeration-internal-access-control-lists-3-df-3da"
   },
-  "/env/active-directory/enumeration/internal/Checklist-69f": {
+  "/env/active-directory/enumeration/internal/Checklist-21b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-enumeration-internal-checklistb-9-e-fac"
+    "content": "content---env-active-directory-enumeration-internal-checklistcd-1-0b2"
   },
-  "/env/active-directory/enumeration/internal/Domain Trusts-a90": {
+  "/env/active-directory/enumeration/internal/Domain Trusts-0b6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-enumeration-internal-domain-trusts-10-e-1da"
+    "content": "content---env-active-directory-enumeration-internal-domain-trusts-6-d-2-1db"
   },
-  "/env/active-directory/enumeration/internal/Privileged Access to Services-5d8": {
+  "/env/active-directory/enumeration/internal/Privileged Access to Services-2f8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-enumeration-internal-privileged-access-to-services-6-a-1-632"
+    "content": "content---env-active-directory-enumeration-internal-privileged-access-to-services-1-a-8-44f"
   },
-  "/env/active-directory/enumeration/internal/Security Controls-084": {
+  "/env/active-directory/enumeration/internal/Security Controls-f95": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---env-active-directory-enumeration-internal-security-controls-993-441"
-  },
-  "/homepage-814": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---5-d-7-bbf"
+    "content": "content---env-active-directory-enumeration-internal-security-controls-589-242"
   },
   "/misc-5e0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---misc-2-c-5-d2d"
   },
-  "/misc/PowerShell Credential object-504": {
+  "/misc/PowerShell Credential object-f56": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---misc-power-shell-credential-object-0-e-4-19b"
+    "content": "content---misc-power-shell-credential-object-061-e89"
   },
   "/pivoting-bfd": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---pivoting-76-a-692"
   },
-  "/pivoting/netsh-f0f": {
+  "/pivoting/netsh-be6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---pivoting-netshc-2-b-dd4"
+    "content": "content---pivoting-netsh-62-a-9b9"
+  },
+  "/pwn-cb2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pwncb-9-15f"
   },
   "/services-3de": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---servicesa-2-c-c1f"
   },
-  "/services/MSSQL-000": {
+  "/services/MSSQL-aa6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---services-mssql-695-9ab"
+    "content": "content---services-mssq-la-40-fda"
   },
-  "/services/Remote Desktop-47e": {
+  "/services/Remote Desktop-801": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---services-remote-desktop-63-d-47f"
+    "content": "content---services-remote-desktope-69-89a"
   },
-  "/services/WinRM-ded": {
+  "/services/WinRM-f7d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---services-win-rm-503-b3a"
+    "content": "content---services-win-rm-345-8f2"
   },
   "/tools-3fd": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---tools-829-362"
   },
-  "/tools/ADSI Edit-264": {
+  "/tools/ADSI Edit-77f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-adsi-editbc-4-a6e"
+    "content": "content---tools-adsi-editcc-2-5c4"
   },
-  "/tools/BloodHound-6e1": {
+  "/tools/BloodHound-2a7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-blood-houndebd-611"
+    "content": "content---tools-blood-hound-9-cc-c18"
   },
-  "/tools/Evil-WinRM-784": {
+  "/tools/Evil-WinRM-a82": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-evil-win-rm-2-e-2-325"
+    "content": "content---tools-evil-win-rm-120-2aa"
   },
-  "/tools/Impacket/-4b6": {
+  "/tools/Impacket/-428": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-impacket-d-58-244"
+    "content": "content---tools-impacket-35-e-93b"
   },
-  "/tools/Impacket/GetUserSPNs.py-43a": {
+  "/tools/Impacket/GetUserSPNs.py-dcf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-impacket-get-user-sp-ns-py-26-b-0c7"
+    "content": "content---tools-impacket-get-user-sp-ns-py-3-e-2-698"
   },
-  "/tools/Impacket/lookupsid.py-61e": {
+  "/tools/Impacket/lookupsid.py-bb2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-impacket-lookupsid-pyead-f74"
+    "content": "content---tools-impacket-lookupsid-py-840-367"
   },
-  "/tools/Impacket/mssqlclient.py (Impacket)-426": {
+  "/tools/Impacket/mssqlclient.py (Impacket)-d2e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-impacket-mssqlclient-py-impacket-521-28a"
+    "content": "content---tools-impacket-mssqlclient-py-impacket-854-0f2"
   },
-  "/tools/Impacket/psexec.py-2c7": {
+  "/tools/Impacket/psexec.py-ccd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-impacket-psexec-py-130-c9a"
+    "content": "content---tools-impacket-psexec-pyade-5ce"
   },
-  "/tools/Impacket/raiseChild.py-751": {
+  "/tools/Impacket/raiseChild.py-bf9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-impacket-raise-child-pyd-65-8ab"
+    "content": "content---tools-impacket-raise-child-py-10-a-5d8"
   },
-  "/tools/Impacket/secretsdump.py-8c2": {
+  "/tools/Impacket/secretsdump.py-acf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-impacket-secretsdump-py-673-0e1"
+    "content": "content---tools-impacket-secretsdump-pyf-8-b-afb"
   },
-  "/tools/Impacket/ticketer.py-a18": {
+  "/tools/Impacket/ticketer.py-183": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-impacket-ticketer-pyaac-9f5"
+    "content": "content---tools-impacket-ticketer-py-4-a-8-dda"
   },
-  "/tools/Kerbrute-831": {
+  "/tools/Kerbrute-4ca": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-kerbruted-18-f95"
+    "content": "content---tools-kerbrutec-6-d-4df"
   },
-  "/tools/klist-ad5": {
+  "/tools/klist-9cc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-klist-70-f-222"
+    "content": "content---tools-klist-065-da4"
   },
-  "/tools/Mimikatz-3de": {
+  "/tools/Mimikatz-12a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-mimikatz-213-4f2"
+    "content": "content---tools-mimikatz-2-da-4c1"
   },
-  "/tools/netdom-ab4": {
+  "/tools/netdom-ece": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-netdome-93-a26"
+    "content": "content---tools-netdom-187-8b3"
   },
-  "/tools/PowerShell-37b": {
+  "/tools/PowerShell-ec9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-power-shell-265-2bb"
+    "content": "content---tools-power-shell-221-03b"
   },
-  "/tools/PowerView-4ec": {
+  "/tools/PowerView-e3c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-power-viewe-7-d-37f"
+    "content": "content---tools-power-viewf-06-9f8"
   },
-  "/tools/rubeus-3ba": {
+  "/tools/rubeus-70a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-rubeusd-45-238"
+    "content": "content---tools-rubeus-51-e-ee1"
   },
-  "/tools/SQLMap-b46": {
+  "/tools/SQLMap-e4d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tools-sql-map-7-f-8-b69"
+    "content": "content---tools-sql-map-2-b-0-4b0"
   }
 }

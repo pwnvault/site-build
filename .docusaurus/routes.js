@@ -54,24 +54,24 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'f69'),
+    component: ComponentCreator('/', '2a9'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'c1d'),
+        component: ComponentCreator('/', '77c'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '17b'),
+            component: ComponentCreator('/', '072'),
             routes: [
               {
                 path: '/contact',
-                component: ComponentCreator('/contact', '459'),
+                component: ComponentCreator('/contact', '566'),
                 exact: true
               },
               {
                 path: '/contribute',
-                component: ComponentCreator('/contribute', '328'),
+                component: ComponentCreator('/contribute', '909'),
                 exact: true
               },
               {
@@ -88,103 +88,97 @@ export default [
               },
               {
                 path: '/env/active-directory/attacks/ACL Abuse',
-                component: ComponentCreator('/env/active-directory/attacks/ACL Abuse', '799'),
+                component: ComponentCreator('/env/active-directory/attacks/ACL Abuse', 'a6a'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/attacks/asrep-roasting',
-                component: ComponentCreator('/env/active-directory/attacks/asrep-roasting', 'df4'),
+                component: ComponentCreator('/env/active-directory/attacks/asrep-roasting', '93f'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/attacks/Cross-Trust Roasting',
-                component: ComponentCreator('/env/active-directory/attacks/Cross-Trust Roasting', 'b0c'),
+                component: ComponentCreator('/env/active-directory/attacks/Cross-Trust Roasting', '93d'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/attacks/DCSync',
-                component: ComponentCreator('/env/active-directory/attacks/DCSync', 'b1c'),
+                component: ComponentCreator('/env/active-directory/attacks/DCSync', '3f6'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/attacks/ExtraSIDs',
-                component: ComponentCreator('/env/active-directory/attacks/ExtraSIDs', '5f8'),
+                component: ComponentCreator('/env/active-directory/attacks/ExtraSIDs', 'eeb'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/attacks/Kerberoasting',
-                component: ComponentCreator('/env/active-directory/attacks/Kerberoasting', '8bf'),
+                component: ComponentCreator('/env/active-directory/attacks/Kerberoasting', '2e4'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/attacks/Password Spraying',
-                component: ComponentCreator('/env/active-directory/attacks/Password Spraying', '664'),
+                component: ComponentCreator('/env/active-directory/attacks/Password Spraying', '04c'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/attacks/Reversible Password encryption',
-                component: ComponentCreator('/env/active-directory/attacks/Reversible Password encryption', 'b09'),
+                component: ComponentCreator('/env/active-directory/attacks/Reversible Password encryption', '8b7'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/cheat-sheets/Attacking AD Command Cheat sheet',
-                component: ComponentCreator('/env/active-directory/cheat-sheets/Attacking AD Command Cheat sheet', '636'),
+                component: ComponentCreator('/env/active-directory/cheat-sheets/Attacking AD Command Cheat sheet', '933'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/enumeration/external/Enumerating Password Policies',
-                component: ComponentCreator('/env/active-directory/enumeration/external/Enumerating Password Policies', '735'),
+                component: ComponentCreator('/env/active-directory/enumeration/external/Enumerating Password Policies', '6ec'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/enumeration/external/External Enumeration',
-                component: ComponentCreator('/env/active-directory/enumeration/external/External Enumeration', 'fb7'),
+                component: ComponentCreator('/env/active-directory/enumeration/external/External Enumeration', 'd5a'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/enumeration/internal/Access Control Lists',
-                component: ComponentCreator('/env/active-directory/enumeration/internal/Access Control Lists', 'a96'),
+                component: ComponentCreator('/env/active-directory/enumeration/internal/Access Control Lists', '344'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/enumeration/internal/Checklist',
-                component: ComponentCreator('/env/active-directory/enumeration/internal/Checklist', '69f'),
+                component: ComponentCreator('/env/active-directory/enumeration/internal/Checklist', '21b'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/enumeration/internal/Domain Trusts',
-                component: ComponentCreator('/env/active-directory/enumeration/internal/Domain Trusts', 'a90'),
+                component: ComponentCreator('/env/active-directory/enumeration/internal/Domain Trusts', '0b6'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/enumeration/internal/Privileged Access to Services',
-                component: ComponentCreator('/env/active-directory/enumeration/internal/Privileged Access to Services', '5d8'),
+                component: ComponentCreator('/env/active-directory/enumeration/internal/Privileged Access to Services', '2f8'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/env/active-directory/enumeration/internal/Security Controls',
-                component: ComponentCreator('/env/active-directory/enumeration/internal/Security Controls', '084'),
-                exact: true,
-                sidebar: "PwnGuideSidebar"
-              },
-              {
-                path: '/homepage',
-                component: ComponentCreator('/homepage', '814'),
+                component: ComponentCreator('/env/active-directory/enumeration/internal/Security Controls', 'f95'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
@@ -196,7 +190,7 @@ export default [
               },
               {
                 path: '/misc/PowerShell Credential object',
-                component: ComponentCreator('/misc/PowerShell Credential object', '504'),
+                component: ComponentCreator('/misc/PowerShell Credential object', 'f56'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
@@ -208,7 +202,13 @@ export default [
               },
               {
                 path: '/pivoting/netsh',
-                component: ComponentCreator('/pivoting/netsh', 'f0f'),
+                component: ComponentCreator('/pivoting/netsh', 'be6'),
+                exact: true,
+                sidebar: "PwnGuideSidebar"
+              },
+              {
+                path: '/pwn',
+                component: ComponentCreator('/pwn', 'cb2'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
@@ -220,19 +220,19 @@ export default [
               },
               {
                 path: '/services/MSSQL',
-                component: ComponentCreator('/services/MSSQL', '000'),
+                component: ComponentCreator('/services/MSSQL', 'aa6'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/services/Remote Desktop',
-                component: ComponentCreator('/services/Remote Desktop', '47e'),
+                component: ComponentCreator('/services/Remote Desktop', '801'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/services/WinRM',
-                component: ComponentCreator('/services/WinRM', 'ded'),
+                component: ComponentCreator('/services/WinRM', 'f7d'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
@@ -244,115 +244,115 @@ export default [
               },
               {
                 path: '/tools/ADSI Edit',
-                component: ComponentCreator('/tools/ADSI Edit', '264'),
+                component: ComponentCreator('/tools/ADSI Edit', '77f'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/BloodHound',
-                component: ComponentCreator('/tools/BloodHound', '6e1'),
+                component: ComponentCreator('/tools/BloodHound', '2a7'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/Evil-WinRM',
-                component: ComponentCreator('/tools/Evil-WinRM', '784'),
+                component: ComponentCreator('/tools/Evil-WinRM', 'a82'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/Impacket/',
-                component: ComponentCreator('/tools/Impacket/', '4b6'),
+                component: ComponentCreator('/tools/Impacket/', '428'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/Impacket/GetUserSPNs.py',
-                component: ComponentCreator('/tools/Impacket/GetUserSPNs.py', '43a'),
+                component: ComponentCreator('/tools/Impacket/GetUserSPNs.py', 'dcf'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/Impacket/lookupsid.py',
-                component: ComponentCreator('/tools/Impacket/lookupsid.py', '61e'),
+                component: ComponentCreator('/tools/Impacket/lookupsid.py', 'bb2'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/Impacket/mssqlclient.py (Impacket)',
-                component: ComponentCreator('/tools/Impacket/mssqlclient.py (Impacket)', '426'),
+                component: ComponentCreator('/tools/Impacket/mssqlclient.py (Impacket)', 'd2e'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/Impacket/psexec.py',
-                component: ComponentCreator('/tools/Impacket/psexec.py', '2c7'),
+                component: ComponentCreator('/tools/Impacket/psexec.py', 'ccd'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/Impacket/raiseChild.py',
-                component: ComponentCreator('/tools/Impacket/raiseChild.py', '751'),
+                component: ComponentCreator('/tools/Impacket/raiseChild.py', 'bf9'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/Impacket/secretsdump.py',
-                component: ComponentCreator('/tools/Impacket/secretsdump.py', '8c2'),
+                component: ComponentCreator('/tools/Impacket/secretsdump.py', 'acf'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/Impacket/ticketer.py',
-                component: ComponentCreator('/tools/Impacket/ticketer.py', 'a18'),
+                component: ComponentCreator('/tools/Impacket/ticketer.py', '183'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/Kerbrute',
-                component: ComponentCreator('/tools/Kerbrute', '831'),
+                component: ComponentCreator('/tools/Kerbrute', '4ca'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/klist',
-                component: ComponentCreator('/tools/klist', 'ad5'),
+                component: ComponentCreator('/tools/klist', '9cc'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/Mimikatz',
-                component: ComponentCreator('/tools/Mimikatz', '3de'),
+                component: ComponentCreator('/tools/Mimikatz', '12a'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/netdom',
-                component: ComponentCreator('/tools/netdom', 'ab4'),
+                component: ComponentCreator('/tools/netdom', 'ece'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/PowerShell',
-                component: ComponentCreator('/tools/PowerShell', '37b'),
+                component: ComponentCreator('/tools/PowerShell', 'ec9'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/PowerView',
-                component: ComponentCreator('/tools/PowerView', '4ec'),
+                component: ComponentCreator('/tools/PowerView', 'e3c'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/rubeus',
-                component: ComponentCreator('/tools/rubeus', '3ba'),
+                component: ComponentCreator('/tools/rubeus', '70a'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               },
               {
                 path: '/tools/SQLMap',
-                component: ComponentCreator('/tools/SQLMap', 'b46'),
+                component: ComponentCreator('/tools/SQLMap', 'e4d'),
                 exact: true,
                 sidebar: "PwnGuideSidebar"
               }

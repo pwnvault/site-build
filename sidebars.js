@@ -23,7 +23,7 @@ const sidebars = {
   PwnGuideSidebar: [
     {
       type: 'doc',
-      id: 'homepage',
+      id: 'pwn',
       label: "Welcome"
     },
     

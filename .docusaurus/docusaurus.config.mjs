@@ -26,7 +26,6 @@ export default {
       "classic",
       {
         "docs": {
-          "path": "./notes",
           "routeBasePath": "/",
           "sidebarPath": "./sidebars.js",
           "editUrl": "https://github.com/pwnvault/notes/.."

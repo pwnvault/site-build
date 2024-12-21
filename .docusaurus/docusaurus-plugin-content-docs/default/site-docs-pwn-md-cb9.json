@@ -11,5 +11,10 @@
   "editUrl": "https://github.com/pwnvault/notes/../docs/pwn.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {},
+  "sidebar": "PwnGuideSidebar",
+  "next": {
+    "title": "Environments",
+    "permalink": "/env"
+  }
 }

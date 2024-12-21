@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/",
-          "mainDocId": "homepage",
+          "mainDocId": "pwn",
           "docs": [
             {
               "id": "contact",
@@ -99,11 +99,6 @@
               "sidebar": "PwnGuideSidebar"
             },
             {
-              "id": "homepage",
-              "path": "/homepage",
-              "sidebar": "PwnGuideSidebar"
-            },
-            {
               "id": "misc/PowerShell Credential object",
               "path": "/misc/PowerShell Credential object",
               "sidebar": "PwnGuideSidebar"
@@ -111,6 +106,11 @@
             {
               "id": "pivoting/netsh",
               "path": "/pivoting/netsh",
+              "sidebar": "PwnGuideSidebar"
+            },
+            {
+              "id": "pwn",
+              "path": "/pwn",
               "sidebar": "PwnGuideSidebar"
             },
             {
@@ -258,7 +258,7 @@
           "sidebars": {
             "PwnGuideSidebar": {
               "link": {
-                "path": "/homepage",
+                "path": "/pwn",
                 "label": "Welcome"
               }
             }
@@ -271,8 +271,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1734737668240.json",
-        "lunrIndex": "lunr-index-1734737668240.json"
+        "searchDoc": "search-doc-1734739841812.json",
+        "lunrIndex": "lunr-index-1734739841812.json"
       }
     }
   }
