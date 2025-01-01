@@ -42,7 +42,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: 'notes'
+          path: 'notes',
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // exclude: process.env.NODE_ENV == 'development' ? [''] : [],
