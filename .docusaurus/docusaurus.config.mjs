@@ -7,7 +7,7 @@ export default {
   "title": "PWNVault",
   "favicon": "img/comp.svg",
   "url": "https://pwnvault.com",
-  "tagline": "Own the web",
+  "tagline": "Own the webs",
   "baseUrl": "/",
   "organizationName": "pwnvault",
   "projectName": "pwnvault",
@@ -26,6 +26,7 @@ export default {
       "classic",
       {
         "docs": {
+          "path": "notes",
           "routeBasePath": "/",
           "sidebarPath": "./sidebars.js",
           "editUrl": "https://github.com/pwnvault/notes/.."
@@ -294,7 +295,7 @@ export default {
     "metadata": []
   },
   "plugins": [
-    "/home/code/repos/site-build/node_modules/docusaurus-lunr-search/src/index.js"
+    "/home/ans/site-build/node_modules/docusaurus-lunr-search/src/index.js"
   ],
   "baseUrlIssueBanner": true,
   "future": {
